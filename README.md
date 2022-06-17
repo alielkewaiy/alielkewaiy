@@ -23,7 +23,7 @@
 
 
 ### :man_technologist: About Me :
-I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+Junior Software engineer, B. SC. in Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
 - :telescope: I’m working as a Software Engineer and contributing to flutter for building flutter applications.
 
 - :seedling: Exploring Technical Content Writing.
