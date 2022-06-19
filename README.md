@@ -30,5 +30,5 @@ Junior Software engineer, B. SC. in Computer Science <img src="https://media.gip
 - :seedling: I’m currently learning Flutter ❤️.
 
 - :mailbox:How to reach me:  <a href="https://www.linkedin.com/in/ali-mohamed-23149a21a">
- <h3>LinkedIn</h3>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
