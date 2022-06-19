@@ -24,7 +24,7 @@
 
 
 ### :man_technologist: About Me :
-Junior Software engineer, B. SC. in Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+ Software engineer, B. SC. in Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
 - :telescope: I’m working as a Software Engineer and contributing to flutter for building flutter applications.
 
 - :seedling: I’m currently learning Flutter ❤️.
