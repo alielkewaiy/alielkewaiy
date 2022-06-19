@@ -27,10 +27,8 @@
 Junior Software engineer, B. SC. in Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
 - :telescope: I’m working as a Software Engineer and contributing to flutter for building flutter applications.
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :seedling: I’m currently learning Flutter ❤️.
 
 - :mailbox:How to reach me:  <a href="https://www.linkedin.com/in/ali-mohamed-23149a21a">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ <h3>LinkedIn</h3>
   </a>
